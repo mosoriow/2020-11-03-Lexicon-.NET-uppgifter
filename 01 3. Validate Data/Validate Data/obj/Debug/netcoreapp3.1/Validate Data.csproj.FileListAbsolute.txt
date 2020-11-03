@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\bin\Debug\netcoreapp3.1\Validate Data.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\bin\Debug\netcoreapp3.1\Validate Data.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\bin\Debug\netcoreapp3.1\Validate Data.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\bin\Debug\netcoreapp3.1\Validate Data.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\bin\Debug\netcoreapp3.1\Validate Data.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\bin\Debug\netcoreapp3.1\Validate Data.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\obj\Debug\netcoreapp3.1\Validate Data.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\obj\Debug\netcoreapp3.1\Validate Data.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\obj\Debug\netcoreapp3.1\Validate Data.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\obj\Debug\netcoreapp3.1\Validate Data.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\obj\Debug\netcoreapp3.1\Validate Data.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\obj\Debug\netcoreapp3.1\Validate Data.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Validate Data\Validate Data\obj\Debug\netcoreapp3.1\Validate Data.genruntimeconfig.cache

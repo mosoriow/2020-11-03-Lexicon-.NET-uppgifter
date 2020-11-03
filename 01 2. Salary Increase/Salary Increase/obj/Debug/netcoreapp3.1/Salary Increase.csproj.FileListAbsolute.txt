@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\bin\Debug\netcoreapp3.1\Salary Increase.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\bin\Debug\netcoreapp3.1\Salary Increase.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\bin\Debug\netcoreapp3.1\Salary Increase.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\bin\Debug\netcoreapp3.1\Salary Increase.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\bin\Debug\netcoreapp3.1\Salary Increase.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\bin\Debug\netcoreapp3.1\Salary Increase.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Salary Increase\Salary Increase\obj\Debug\netcoreapp3.1\Salary Increase.genruntimeconfig.cache

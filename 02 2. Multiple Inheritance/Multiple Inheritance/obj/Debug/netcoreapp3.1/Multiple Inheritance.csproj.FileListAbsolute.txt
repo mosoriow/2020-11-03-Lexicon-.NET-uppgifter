@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.genruntimeconfig.cache

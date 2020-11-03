@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\obj\Debug\netcoreapp3.1\Stack of Strings.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\obj\Debug\netcoreapp3.1\Stack of Strings.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\obj\Debug\netcoreapp3.1\Stack of Strings.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\obj\Debug\netcoreapp3.1\Stack of Strings.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\bin\Debug\netcoreapp3.1\Stack of Strings.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\bin\Debug\netcoreapp3.1\Stack of Strings.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\bin\Debug\netcoreapp3.1\Stack of Strings.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\bin\Debug\netcoreapp3.1\Stack of Strings.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\bin\Debug\netcoreapp3.1\Stack of Strings.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\bin\Debug\netcoreapp3.1\Stack of Strings.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\obj\Debug\netcoreapp3.1\Stack of Strings.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\obj\Debug\netcoreapp3.1\Stack of Strings.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Stack of Strings\Stack of Strings\obj\Debug\netcoreapp3.1\Stack of Strings.genruntimeconfig.cache

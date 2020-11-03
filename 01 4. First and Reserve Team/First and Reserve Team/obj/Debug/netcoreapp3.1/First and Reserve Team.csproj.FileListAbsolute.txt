@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\bin\Debug\netcoreapp3.1\First and Reserve Team.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\bin\Debug\netcoreapp3.1\First and Reserve Team.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\bin\Debug\netcoreapp3.1\First and Reserve Team.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\bin\Debug\netcoreapp3.1\First and Reserve Team.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\bin\Debug\netcoreapp3.1\First and Reserve Team.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\bin\Debug\netcoreapp3.1\First and Reserve Team.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\First and Reserve Team\First and Reserve Team\obj\Debug\netcoreapp3.1\First and Reserve Team.genruntimeconfig.cache

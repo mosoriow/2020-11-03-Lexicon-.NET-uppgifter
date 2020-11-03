@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\bin\Debug\netcoreapp3.1\Random List.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\bin\Debug\netcoreapp3.1\Random List.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\bin\Debug\netcoreapp3.1\Random List.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\bin\Debug\netcoreapp3.1\Random List.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\bin\Debug\netcoreapp3.1\Random List.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\bin\Debug\netcoreapp3.1\Random List.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.genruntimeconfig.cache

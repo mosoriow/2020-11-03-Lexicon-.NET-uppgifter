@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\netcoreapp3.1\Hierarchical Inheritance.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\netcoreapp3.1\Hierarchical Inheritance.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\netcoreapp3.1\Hierarchical Inheritance.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\netcoreapp3.1\Hierarchical Inheritance.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\netcoreapp3.1\Hierarchical Inheritance.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\netcoreapp3.1\Hierarchical Inheritance.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Hierarchical Inheritance.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Hierarchical Inheritance.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Hierarchical Inheritance.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Hierarchical Inheritance.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Hierarchical Inheritance.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Hierarchical Inheritance.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Hierarchical Inheritance.genruntimeconfig.cache

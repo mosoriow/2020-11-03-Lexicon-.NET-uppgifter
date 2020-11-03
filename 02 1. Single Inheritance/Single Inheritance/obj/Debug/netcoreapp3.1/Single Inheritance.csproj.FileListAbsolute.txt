@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\bin\Debug\netcoreapp3.1\Single Inheritance.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\bin\Debug\netcoreapp3.1\Single Inheritance.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\bin\Debug\netcoreapp3.1\Single Inheritance.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\bin\Debug\netcoreapp3.1\Single Inheritance.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\bin\Debug\netcoreapp3.1\Single Inheritance.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\bin\Debug\netcoreapp3.1\Single Inheritance.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.genruntimeconfig.cache
